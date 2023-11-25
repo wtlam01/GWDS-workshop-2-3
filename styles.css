@@ -85,13 +85,13 @@ a {
 }
 
 .cake-item{
-    border: 1px dashed yellow;
+    /* border: 1px dashed yellow; */
     width: 275px;
     height: 275px;
     padding: 4px;
 }
 
 .cake-group{
-    border: 2px solid green;
+    /* border: 2px solid green; */
     width: 275px;
 }
